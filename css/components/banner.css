@@ -1,0 +1,25 @@
+.banner {
+  background-image:
+    linear-gradient(rgba(0, 0, 0, 0.3),
+    rgba(0, 0, 0, 0.3)),
+    url('../../images/resume.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+  padding: 50px 0;
+}
+
+ .banner h1 {
+  color: white;
+  font-size: 35px;
+
+}
+
+.banner p {
+  color: white;
+  font-size: 18px;
+  margin-bottom: 60px;
+}
+
+
